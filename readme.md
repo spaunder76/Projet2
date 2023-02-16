@@ -1,3 +1,6 @@
+Ce programme a éte préparé pour fonctionner sur la version 3.10 de python sur LINUX
+
+
 to execute the different files available you will have to put in the terminal the next step :
 
 "python3 "name_of_file"
